@@ -3,5 +3,9 @@
 #### Hi there 👋, I'm Martunis. I'm a web developer. Welcome to my page! <br>
 
 <a href="https://github.com/martunismukhtar">
+<img align="center" alt="martunis's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=martunismukhtar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+
+<a href="https://github.com/martunismukhtar">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=martunismukhtar&layout=compact&theme=radical" />
 </a>
