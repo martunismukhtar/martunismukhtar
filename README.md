@@ -4,7 +4,6 @@
 
 - 📫 How to reach me **martunismukhtar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CSFmG5hPH34uOmVO7pwMm0TYTlwVayei/view?usp=sharing](https://drive.google.com/file/d/1CSFmG5hPH34uOmVO7pwMm0TYTlwVayei/view?usp=sharing)
 
 
 <a href="https://github.com/martunismukhtar">
