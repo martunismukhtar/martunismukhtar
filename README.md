@@ -3,18 +3,18 @@
 #### Fullstack Developer | Laravel | Express.js | React.js | Next.js <br>
 #### 👋 Hi, I'm Martunis! A passionate Fullstack Developer with a strong focus on building scalable and maintainable web applications. I thrive on turning ideas into efficient, user-friendly digital solutions.
 
-💼 Skills & Expertise
-Frontend Development:
-React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript (ES6+)
+💼 Skills & Expertise <br>
+Frontend Development:<br>
+React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript (ES6+)<br><br>
 
-Backend Development:
-Laravel, Express.js, RESTful APIs, MVC Architecture
+Backend Development:<br>
+Laravel, Express.js, RESTful APIs, MVC Architecture<br><br>
 
-Database Management:
-MySQL, PostgreSQL
+Database Management:<br>
+MySQL, PostgreSQL<br><br>
 
-Tools & Workflow:
-Git, Docker, Postman, Agile Methodology
+Tools & Workflow:<br>
+Git, Docker, Postman, Agile Methodology<br><br>
 
 
 - 📫 How to reach me **martunismukhtar@gmail.com**
