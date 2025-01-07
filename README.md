@@ -4,8 +4,8 @@
 #### 👋 Hi, I'm Martunis! A passionate Fullstack Developer with a strong focus on building scalable and maintainable web applications. <br>I thrive on turning ideas into efficient, user-friendly digital solutions.
 
 💼 Skills & Expertise <br>
-Frontend Development:<be>
-  [] React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript (ES6+)<br><br>
+Frontend Development:<br>
+ - [ ] React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript (ES6+)<br><br>
 
 Backend Development:<br>
   Laravel, Express.js, RESTful APIs, MVC Architecture<br><br>
