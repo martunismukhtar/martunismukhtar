@@ -5,16 +5,16 @@
 
 💼 Skills & Expertise <br>
 Frontend Development:<br>
-React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript (ES6+)<br><br>
+  React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript (ES6+)<br><br>
 
 Backend Development:<br>
-Laravel, Express.js, RESTful APIs, MVC Architecture<br><br>
+  Laravel, Express.js, RESTful APIs, MVC Architecture<br><br>
 
 Database Management:<br>
-MySQL, PostgreSQL<br><br>
+  MySQL, PostgreSQL<br><br>
 
 Tools & Workflow:<br>
-Git, Docker, Postman, Agile Methodology<br><br>
+  Git, Docker, Postman, Agile Methodology<br><br>
 
 
 - 📫 How to reach me **martunismukhtar@gmail.com**
