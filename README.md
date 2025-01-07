@@ -5,7 +5,7 @@
 
 💼 Skills & Expertise <br>
 Frontend Development:<br>
- - [ ] React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript (ES6+)<br><br>
+ - [ ] React.js, Next.js, TypeScript, Tailwind CSS, HTML, CSS, JavaScript (ES6+)<br><br>
 
 Backend Development:<br>
  - [ ] Laravel, Express.js, RESTful APIs, MVC Architecture<br><br>
