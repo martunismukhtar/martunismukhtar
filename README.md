@@ -1,6 +1,6 @@
 <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
  
-#### Fullstack Developer | Laravel | Express.js | React.js | Next.js <br>
+#### Fullstack Developer | Laravel | FastAPI | React.js  <br>
 #### 👋 Hi, I'm Martunis! A passionate Fullstack Developer with a strong focus on building scalable and maintainable web applications. <br>I thrive on turning ideas into efficient, user-friendly digital solutions.
 
 💼 Skills & Expertise <br>
